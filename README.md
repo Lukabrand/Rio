@@ -12,9 +12,6 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/CypherX-darkgreen?style=for-the-badge&logo=whatsapp"></a>
-<p/>
-<p align="center">
 <a href="https://github.com/Dark-Xploit/CypherX/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dark-Xploit/CypherX?&style=social"></a>
 <a href="https://github.com/Dark-Xploit/CypherX/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Dark-Xploit/CypherX?style=social"></a>
 <a href="https://github.com/Dark-Xploit/CypherX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dark-Xploit/CypherX?label=Watching&style=social"></a>
