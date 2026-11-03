@@ -19,7 +19,6 @@
 <a href="https://github.com/Dark-Xploit/CypherX/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Dark-Xploit/CypherX?style=social"></a>
 <a href="https://github.com/Dark-Xploit/CypherX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dark-Xploit/CypherX?label=Watching&style=social"></a>
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Dark-Xploit}/count.svg" alt="CypherX:: Visitor's Count" /></p>
 
 
 <p align="center">
