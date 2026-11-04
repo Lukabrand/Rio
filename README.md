@@ -2,7 +2,7 @@
 <h1 align="center"> 𝖫𝖠𝖳𝖤𝖲𝖳 𝖵𝖤𝖱𝖲𝖨𝖮𝖭 </h1>
  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf00ff,100:4b0082&height=220&section=header&text=RIO-XMD &fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Bot%20Creator%20•%20UI%20Designer&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf00ff,100:4b0082&height=220&section=header&text=RIO-XMD&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Bot%20Creator%20•%20UI%20Designer&descAlignY=55"/>
 </p>
 
 <p align="center">
