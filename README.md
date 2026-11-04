@@ -29,7 +29,7 @@
     <strong>2. SESSION ID</strong>
     <br>
     <a href="https://cypherxbot.vercel.app/" target="_blank">
-        <img alt="SESSION ID" src="https://img.shields.io/badge/GET_ID-8000FF?style=for-the-badge&logo=scan&logoColor=white&labelColor=4B0082&color=8000FF"/>
+        <img alt="SESSION ID" src="https://img.shields.io/badge/LET'S GO-8000FF?style=for-the-badge&logo=scan&logoColor=white&labelColor=4B0082&color=8000FF"/>
     </a>
 </p>
 
