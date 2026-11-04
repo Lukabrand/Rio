@@ -29,7 +29,7 @@
     <strong>2. SESSION ID</strong>
     <br>
     <a href="https://cypherxbot.vercel.app/" target="_blank">
-        <img alt="SESSION ID" src="https://img.shields.io/badge/GET_SESSION_ID-8000FF?style=for-the-badge&logo=key&logoColor=white&labelColor=4B0082&color=8000FF"/>
+        <img alt="SESSION ID" src="https://img.shields.io/badge/GET_SESSION_ID-8000FF?style=for-the-badge&logo=scan&logoColor=white&labelColor=4B0082&color=8000FF"/>
     </a>
 </p>
 
@@ -38,7 +38,7 @@
     <strong>3. DEPLOYMENTS</strong>
     <br>
     <a href="YOUR_DEPLOYMENT_LINK" target="_blank">
-        <img alt="DEPLOYMENTS" src="https://img.shields.io/badge/DEPLOY_NOW-100000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=black"/>
+        <img alt="DEPLOYMENTS" src="https://img.shields.io/badge/DEPLOY_NOW-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black"/>
     </a>
 </p>
 
