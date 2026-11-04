@@ -24,11 +24,21 @@
     </a>
 </p>
 
-<!-- Part 2: SESSION ID & DEPLOYMENTS -->
+<!-- SESSION ID -->
 <p align="center">
-    <strong>2. SESSION ID & DEPLOYMENTS</strong>
+    <strong>2. SESSION ID</strong>
     <br>
     <a href="https://cypherxbot.vercel.app/" target="_blank">
-        <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
+        <img alt="SESSION ID" src="https://img.shields.io/badge/GET_SESSION_ID-8000FF?style=for-the-badge&logo=key&logoColor=white&labelColor=4B0082&color=8000FF"/>
     </a>
 </p>
+
+<!-- DEPLOYMENTS -->
+<p align="center">
+    <strong>3. DEPLOYMENTS</strong>
+    <br>
+    <a href="YOUR_DEPLOYMENT_LINK" target="_blank">
+        <img alt="DEPLOYMENTS" src="https://img.shields.io/badge/DEPLOY_NOW-100000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=black"/>
+    </a>
+</p>
+
