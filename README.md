@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Welcome+To+My+GitHub+Profile;WhatsApp+Bot+Developer;Full+Stack+Web+Developer;Always+Learning+New+Things"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Welcome+To+My+GitHub+Profile;WhatsApp+Bot+Developer;Full+Stack+Web+Developer;Always+Learning+New+Things"/>
 </p>
 
   
